@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlegTrxnv
+- 👋 Hi, I’m @Oleg Trxnv
 - 👀 I’m interested in JavaScript web development
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
